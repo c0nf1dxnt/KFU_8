@@ -13,9 +13,5 @@
         {
             assignedTask = task;
         }
-        public void WriteAReport()
-        {
-
-        }
     }
 }
